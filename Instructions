@@ -1,0 +1,11 @@
+Loop structures on 2/dec/2022.
+
+for(intialization;condition;operation)
+{ executions  }
+
+intialization:loop_variable=const->i=0 or i=10 -->executes only 1st at start of loop
+condition: loop_variable< const-> i<num or i<=finite number --> checks each time before entering into loop, if condition fails loop terminate
+operation: loop_variable++ -> i++ or i-- or ++i or i=+2 --> update itself each time after condition holds true, 
+
+___________________________________________________________________________
+
